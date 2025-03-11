@@ -16,3 +16,5 @@ cd minha-pasta
 git clone <link-repositorio>
 
 #Acessando o repositório
+
+## Autor: Minha empresa
